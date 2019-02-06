@@ -1,0 +1,23 @@
+
+html {
+    background: #fae900;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+.buttons {
+    font-size: 2em;
+}
+
+a:visited{
+    color:red;
+}
+
+a:link{
+    color:red;
+}
+
